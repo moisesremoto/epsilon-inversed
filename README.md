@@ -24,6 +24,6 @@
   
   2. replace the epsilon_light.json file located at \Upsilon\themes\themes\local with the new .json 
   
-  3. you can now compile it with ``make OMEGA_USERNAME="your-name" THEME-NAME="epsilon_light -j4`` and if you wish to have bin files, add ``binpack`` before the ``j4``
+  3. you can now compile it with ``make OMEGA_USERNAME="your-name" THEME-NAME="epsilon_light -j4`` and if you wish to have bin files, add ``binpack`` before the ``-j4``
   
   <h2>4. you're done, you can now follow the How to install bins section if needed! </h2>
